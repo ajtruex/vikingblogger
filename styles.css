@@ -70,11 +70,13 @@ body{
 .post-container{
 	margin: 30px auto;
 	width: 620px;
-	border: 1px solid black;
 }
 
 .post{
 	padding: 48px 80px;
+	margin: 40px 0;
+	border: 2px solid #ddd;
+
 }
 
 a{
